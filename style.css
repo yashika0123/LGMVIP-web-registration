@@ -1,0 +1,31 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+#right
+{
+    background-color: white;
+    width: 300px;
+    /* border: 2px solid black; */
+    padding: 10px;
+    margin: 20px;
+position: absolute;
+top: 10%;
+left: 80%;
+  
+}
+h4{
+  background-color: aquamarine;
+  border: 2px solid black;
+  padding: 10px;
+}
+#left
+{
+  position:relative;
+  top:30%;
+  left:-5%;
+}
